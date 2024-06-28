@@ -1,4 +1,4 @@
-package jp.ac.itcollege.std.s23016.message.board
+package jp.ac.itcollege.std.s23016.messageboard
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class MessageBoardApplication
 
 fun main(args: Array<String>) {
-    runApplication<MessageBoardApplication>(*args)
+	runApplication<MessageBoardApplication>(*args)
 }
